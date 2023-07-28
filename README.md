@@ -13,4 +13,4 @@ Profesora: [**Erika R. Badillo**](https://ebadilloe.github.io)
 
 - [Sampieri y otros (2010), pags. 14-15](https://ebadilloe.github.io/MEDH/Sampieri.Met.Inv,2010,5ted_p14-15.pdf)<br>
 
--- [Paradigmas](https://ebadilloe.github.io/MEDH/paradigmas.pdf)
+- [Paradigmas](https://ebadilloe.github.io/MEDH/paradigmas.pdf)
