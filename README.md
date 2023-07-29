@@ -34,6 +34,14 @@ Ejemplo uso de datos:
 - [Código en R - Ejemplo 1](https://ebadilloe.github.io/MEDH/Ejercicio.R)<br>
 - [Data - Ejemplo 1](https://ebadilloe.github.io/MEDH/wage1.xlsx)<br>
 
+<br>
+
+Ejercicio uso de datos:
+
+- [Enunciado](https://ebadilloe.github.io/MEDH/Ejercicio.R)<br>
+- [Data](https://ebadilloe.github.io/MEDH/wage1.xlsx)<br>
+- [Paper](https://ebadilloe.github.io/MEDH/wage1.xlsx)<br>
+
 
 
 
