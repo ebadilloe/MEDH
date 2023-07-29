@@ -36,7 +36,7 @@ Ejemplo uso de datos:
 
 <br>
 
-Ejercicio uso de datos:
+Actividad 2. Análisis de datos:
 
 - [Enunciado](https://ebadilloe.github.io/MEDH/Ejercicio.R)<br>
 - [Data](https://ebadilloe.github.io/MEDH/wage1.xlsx)<br>
