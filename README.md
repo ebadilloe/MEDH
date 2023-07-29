@@ -38,9 +38,9 @@ Ejemplo uso de datos:
 
 Actividad 2. Análisis de datos:
 
-- [Enunciado](https://ebadilloe.github.io/MEDH/Ejercicio.R)<br>
-- [Data](https://ebadilloe.github.io/MEDH/wage1.xlsx)<br>
-- [Paper](https://ebadilloe.github.io/MEDH/wage1.xlsx)<br>
+- [Enunciado](https://ebadilloe.github.io/MEDH/Taller1.pdf)<br>
+- [Data](https://ebadilloe.github.io/MEDH/data.xlsx)<br>
+- [Paper](https://ebadilloe.github.io/MEDH/Lochner-EffectEducationCrime-2004.pdf)<br>
 
 
 
