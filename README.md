@@ -27,11 +27,11 @@ Lecturas para profundizar:
 
 - [López-Roldán, P. y Fachelli, S. (2016), Análisis descriptivo de datos](https://ebadilloe.github.io/MEDH/LopezRoldan,2016_descriptivos.pdf)<br>
 
-
+<br>
 
 Ejemplo uso de datos:
 
-- [Código en R - Ejemplo](https://ebadilloe.github.io/MEDH/script1.R)<br>
+- [Código en R - Ejemplo 1](https://ebadilloe.github.io/MEDH/Ejercicio.R)<br>
 
 
 
