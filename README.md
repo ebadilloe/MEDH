@@ -9,8 +9,35 @@ Profesora: [**Erika R. Badillo**](https://ebadilloe.github.io)
 
 - [Encuesta ejemplo](https://ebadilloe.github.io/MEDH/EncuestaEjemplo.pdf)<br>
 
+<br>
+
+Lecturas para profundizar:
+
 - [Sampieri y otros (2010)](https://ebadilloe.github.io/MEDH/Sampieri.Met.Inv,2010,5ted.pdf)<br>
 
 - [Sampieri y otros (2010), pags. 14-15](https://ebadilloe.github.io/MEDH/Sampieri.Met.Inv,2010,5ted_p14-15.pdf)<br>
 
-- [Paradigmas](https://ebadilloe.github.io/MEDH/paradigmas.pdf)
+- [Paradigmas](https://ebadilloe.github.io/MEDH/paradigmas.pdf)<br>
+
+- [López-Roldán, P. y Fachelli, S. (2016), El proceso de investigación](https://ebadilloe.github.io/MEDH/LopezRoldan,2016_procesodei.pdf)<br>
+
+- [López-Roldán, P. y Fachelli, S. (2016), Medición de fenómenos sociales](https://ebadilloe.github.io/MEDH/LopezRoldan,2016_medicion.pdf)<br>
+
+- [López-Roldán, P. y Fachelli, S. (2016), La Encuesta](https://ebadilloe.github.io/MEDH/LopezRoldan,2016_encuesta.pdf)<br>
+
+- [López-Roldán, P. y Fachelli, S. (2016), Análisis descriptivo de datos](https://ebadilloe.github.io/MEDH/LopezRoldan,2016_descriptivos.pdf)<br>
+
+
+
+Ejemplo uso de datos:
+
+- [Código en R - Ejemplo](https://ebadilloe.github.io/MEDH/script1.R)<br>
+
+
+
+
+
+
+
+
+
