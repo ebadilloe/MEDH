@@ -63,12 +63,36 @@ data <- read_excel("wage1.xlsx")
 # Datos que han sido recopilados por otros y se encuentran organizados en la 
 # forma tradicional de una base de datos (filas y columnas)
 
+# Una vez importadas las bases, podemos tener ese primer encuentro con los datos 
+# y explorar de manera inicial qué hay dentro de estos, cuántas variables tenemos, 
+# cuántas observaciones. Es importante conocer para qué periodo, 
+# cuáles son las unidades de medida de las variables 
+# y a qué sujetos o individuos representan, entre otra información que puede ser útil 
+# para saber con qué nos estamos encontrando. 
+# Entender la base de datos, saber qué tiene adentro, es esencial antes de iniciar 
+# cualquier cálculo o inferencia.
+
 head(data)
 tail(data)
 #View(data)
 str(data) #conocer la estructura de la bbdd
 min(data$wage)
 max(data$wage)
+
+# ¿Qué se debe hacer cuando tenemos una base de datos y queremos resumir cada una de nuestras variables?
+#     Estadísticamente nos sirve saber cómo están distribuidos esos datos, es decir, 
+#     hacia dónde se dirigen la mayoría de los datos. Para esto hay ciertas mediciones, 
+#     gráficas, tablas, entre otros, que sirven para resumir cada variable que tenemos 
+#     almacenada en nuestras bases.
+#     Medidas de tendencia central
+#     Medidas de dispersión
+#      Las medidas de dispersión son números que indican qué tanto se mueve una variable, 
+#      si toma valores muy extremos o se mantiene en un mismo rango. Por ejemplo, 
+#      por definición, una variable tipo índice cuyos valores están entre 0 y 100 
+#      tiene una variación muy pequeña, pues se sabe precisamente que sus valores 
+#      estarán encerrados en dicho rango. Por otro lado, una variable que indica los 
+#      ingresos de las personas o de países, entre otros, tiende a variar mucho porque 
+#      puede tomar valores muy alejados entre sí.
 
 # Estadísticas descriptivas de las variables de interés: salarios, educación y sexo
 descr(data, stats = "common", transpose = TRUE)
