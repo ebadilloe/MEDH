@@ -54,7 +54,6 @@ library(tidyverse); library(summarytools)
 
 # Fijando el directorio
 #setwd("C:/.../Métodos cuantitativos/Ejercicio")
-setwd("C:/Users/erika/OneDrive - Universidad Autónoma Latinoamericana/1 Contratacion/0 Maestria en Educacion y Derechos Humanos/Clase 1/Estadistica/Ejercicio")
 
 # Cargando la base de datos
 #install.packages("readxl")
